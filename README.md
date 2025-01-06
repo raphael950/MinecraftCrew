@@ -14,3 +14,5 @@
     The plugin creates a local H2 Database.
 </p>
 
+> [!TIP]
+> This plugin has a [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) integration.
