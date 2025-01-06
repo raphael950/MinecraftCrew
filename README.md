@@ -14,5 +14,11 @@
     The plugin creates a local H2 Database.
 </p>
 
-> [!TIP]
+> [!NOTE]
 > This plugin has a [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) integration.
+
+| Placeholder | Explanation  |
+| :-------- | :------- |
+| %owner% | Owner of the crew |
+| %name%| Name of the crew|
+| %members% | List of all members in the crew |
