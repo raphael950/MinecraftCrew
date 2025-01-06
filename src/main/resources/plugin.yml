@@ -1,0 +1,8 @@
+name: KinkoTeams
+version: '${version}'
+main: fr.twizox.kinkoteams.kinkoteams.KinkoTeams
+softdepend:
+  - PlaceholderAPI
+commands:
+  equipage:
+    description: "Equipage"
